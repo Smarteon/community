@@ -47,16 +47,20 @@ There are marks prepared witch you can use. The meaning of them is following:
 
 ## Register a miniserver in Loxcall app
 1. First add a miniserver by clicking a plus button in the bottom right corner.
-   <img src="https://github.com/Smarteon/community/blob/master/docs/loxcall/img/add.png" width="200" alt="Plus button in the bottom right corner." />
-    
-2. Fill the form and click the 'save' button. Note that the app need credentials to a miniserver account with access rights to API and to `_CallState` virtual input. If you don't want to use your private account, create a new one with these rights.
-   <img src="https://github.com/Smarteon/community/blob/master/docs/loxcall/img/form.png" width="200" alt="Fill the form and save." />
 
-3. Your miniserver will appear in the list. Now it is ready. 
-   <img src="https://github.com/Smarteon/community/blob/master/docs/loxcall/img/list.png" width="200" alt="List of all added miniservers." />
+    ![Plus button in the bottom right corner.](img/add.png)
+
+2. Fill the form and click the 'save' button. Note that the app need credentials to a miniserver account with access rights to API and to `_CallState` virtual input. If you don't want to use your private account, create a new one with these rights.
+
+    ![Fill the form and save.](img/form.png)
+
+3. Your miniserver will appear in the list. Now it is ready.
+
+   ![List of all added miniservers.](img/list.png)
 
 4. You can change your device name by opening a settings from the top right menu.
-   <img src="https://github.com/Smarteon/community/blob/master/docs/loxcall/img/settings.png" width="200" alt="Change device name in settings." />
+
+    ![Change device name in settings.](img/settings.png)
 
 -----------------------------
 
