@@ -9,7 +9,7 @@ Available for Android 7.0+ on Google play
 
 ## Prerequisites
 * Smartphone with android 7.0+
-* [Loxone miniserver](https://shop.smarteon.cz/miniserver/) (any model)
+* [Loxone miniserver](https://shop.loxone.com/enen/miniserver.html) (any model)
 * [Loxone config](https://www.loxone.com/enen/support/downloads/)
 
 -----------------------------
