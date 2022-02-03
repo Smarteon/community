@@ -26,7 +26,7 @@ Available for Android 7.0+ on Google play
 For proper run, you have to set up your Loxone miniserver.
 
 1. Open Loxone config and connect to your miniserver.
-2. Download our [Loxone config template for Loxcall app](../../loxcall/loxcall.Loxone)
+2. Download our [Loxone config template for Loxcall app](https://github.com/Smarteon/community/tree/master/loxcall)
 3. From our template, copy all blocks from page "Loxcall" to your program.
 There are marks prepared witch you can use. The meaning of them is following:
    
